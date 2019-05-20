@@ -1,0 +1,3 @@
+[submodule "shoe-tracker"]
+	path = shoe-tracker
+	url = git@gitlab.cs.washington.edu:pmp10/shoe-tracker.git
